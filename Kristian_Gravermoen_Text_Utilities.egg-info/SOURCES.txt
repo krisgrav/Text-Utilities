@@ -1,0 +1,12 @@
+README.md
+setup.py
+Kristian_Gravermoen_Text_Utilities.egg-info/PKG-INFO
+Kristian_Gravermoen_Text_Utilities.egg-info/SOURCES.txt
+Kristian_Gravermoen_Text_Utilities.egg-info/dependency_links.txt
+Kristian_Gravermoen_Text_Utilities.egg-info/entry_points.txt
+Kristian_Gravermoen_Text_Utilities.egg-info/requires.txt
+Kristian_Gravermoen_Text_Utilities.egg-info/top_level.txt
+utilities/__init__.py
+utilities/app.py
+utilities/cleancsv.py
+utilities/csv2xlsx.py
