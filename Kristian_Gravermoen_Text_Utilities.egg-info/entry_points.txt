@@ -1,0 +1,2 @@
+[console_scripts]
+run = utilities.app:main
